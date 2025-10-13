@@ -8,12 +8,6 @@
 
 <h6 align="left">About me</h6>
 
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
-
 <h6 align="left">I Use Tools Like -</h6>
 
 ###
